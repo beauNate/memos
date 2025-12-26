@@ -24,11 +24,11 @@ require (
 	github.com/spf13/viper v1.20.1
 	github.com/stretchr/testify v1.10.0
 	github.com/yuin/goldmark v1.7.13
-	golang.org/x/crypto v0.42.0
-	golang.org/x/mod v0.28.0
-	golang.org/x/net v0.43.0
+	golang.org/x/crypto v0.45.0
+	golang.org/x/mod v0.29.0
+	golang.org/x/net v0.47.0
 	golang.org/x/oauth2 v0.30.0
-	golang.org/x/sync v0.17.0
+	golang.org/x/sync v0.18.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20250826171959-ef028d996bc1
 	google.golang.org/grpc v1.75.1
 	modernc.org/sqlite v1.38.2
@@ -42,7 +42,7 @@ require (
 	github.com/desertbit/timer v1.0.1 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/fsnotify/fsnotify v1.8.0 // indirect
-	github.com/go-viper/mapstructure/v2 v2.2.1 // indirect
+	github.com/go-viper/mapstructure/v2 v2.4.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/ncruces/go-strftime v0.1.9 // indirect
 	github.com/pelletier/go-toml/v2 v2.2.3 // indirect
@@ -92,8 +92,8 @@ require (
 	github.com/soheilhy/cmux v0.1.5
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasttemplate v1.2.2 // indirect
-	golang.org/x/sys v0.36.0 // indirect
-	golang.org/x/text v0.29.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
+	golang.org/x/text v0.31.0 // indirect
 	golang.org/x/time v0.12.0 // indirect
 	google.golang.org/protobuf v1.36.9
 	gopkg.in/yaml.v3 v3.0.1 // indirect
